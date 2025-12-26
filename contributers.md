@@ -1,4 +1,3 @@
-
 | Name                   | GitHub ID           | College Name                   |
 | ---------------------- | ------------------- | ------------------------------ |
 | Asra Tabassum          | Tabassumasra05      | IIIT Allahabad                 |
@@ -44,6 +43,7 @@
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 | Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
+| Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
