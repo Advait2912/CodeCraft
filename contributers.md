@@ -30,6 +30,7 @@
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
+| Ishan Raj Singh | ishanrajsingh | Amity Noida |
 | Spandana Surepally | Spandana-S16 | IIIT Allahabad |
 | Sayed Al Amaan zaidi         | amaan1114           | Rishihood University              |
 | Satwik Santosh | DeadlySatwik | IIIT Allahabad |
