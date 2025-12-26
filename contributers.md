@@ -29,7 +29,6 @@
 | Kushagra Sahu          |       KushagraSahu-01           |IIIT Allahabad      |
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
-
 | Khushi Shorey | khushishorey | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
